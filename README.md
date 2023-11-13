@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Theresa20191@outlook.com**
 
+- 💻 Skills set:  Feature Engineering
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/theresa-lee-667162149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theresa-lee-667162149" height="30" width="40" /></a>
